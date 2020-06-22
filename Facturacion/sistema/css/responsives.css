@@ -1,0 +1,19 @@
+
+	 @media screen and(max-width: 1000000000px)
+	 {
+
+	 	nav{
+
+	 	position: absolute;
+	 	width: 100%;
+	}
+nav ul{
+	flex-direction: column;
+	}
+	nav ul li{
+width: 100%;
+border-bottom: 1px solid #CCC;
+
+	}
+	}
+
